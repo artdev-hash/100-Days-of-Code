@@ -11,6 +11,6 @@ I think i need to start from this.. It's been a long time.. i grab on this part.
 it's a refresher.. I used to be an IDE/coder person.. and now i want to improve
 my coding skills more.. i want to be better..
 
-**Link(s) to work**
+**Link to work**
 
 Submitted my progress at https://www.freecodecamp.org/
