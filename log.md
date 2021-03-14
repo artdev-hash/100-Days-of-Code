@@ -36,3 +36,13 @@ but as long as your honest to make the work..the challenge..you are confident th
 
 **Link to work**
 Submitted my progress at https://www.freecodecamp.org/
+
+### Day 04: March 14, 2021 Sunday
+
+**Today's Progress :** Reading Bootstrap Docs
+
+**Thought's :**
+Just bumped in bootstrap.. and It's sunday today.. it's rest day.. family day... 
+
+**Link to work**
+Reading https://getbootstrap.com/docs/5.0/getting-started/introduction/
