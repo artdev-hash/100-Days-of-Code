@@ -42,7 +42,7 @@ Submitted my progress at https://www.freecodecamp.org/
 **Today's Progress :** Reading Bootstrap Docs
 
 **Thought's :**
-Just bumped in bootstrap.. and It's sunday today.. it's rest day.. family day... 
+Just bumped in bootstrap.. and It's sunday today.. it's rest day.. family day... Church Day..  :pray:
 
 **Link to work**
 Reading https://getbootstrap.com/docs/5.0/getting-started/introduction/
