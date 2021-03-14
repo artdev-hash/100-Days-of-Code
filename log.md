@@ -24,3 +24,15 @@ Lot's of exercises to explore.. available to play CSS.
 
 **Link to work :** 
 Submitted my progress at https://www.freecodecamp.org/
+
+### Day 03: March 13, 2021 Saturday
+
+**Today's Progress :** Applied Visual Design
+
+**Thoughts :**
+A busy day today.. and encountered a problem with my ethernet connection before the day ends.. still not fixed for today..
+but i have followed up..i have realized something..that okay you don't share the progress at twitter at the end of the day...
+but as long as your honest to make the work..the challenge..you are confident that you are sticking with the goal..
+
+**Link to work**
+Submitted my progress at https://www.freecodecamp.org/
