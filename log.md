@@ -34,7 +34,7 @@ A busy day today.. and encountered a problem with my ethernet connection before 
 but i have followed up..i have realized something..that okay you don't share the progress at twitter at the end of the day...
 but as long as your honest to make the work..the challenge..you are confident that you are sticking with the goal..
 
-**Link to work**
+**Link to work :**
 Submitted my progress at https://www.freecodecamp.org/
 
 ### Day 04: March 14, 2021 Sunday
@@ -44,5 +44,5 @@ Submitted my progress at https://www.freecodecamp.org/
 **Thought's :**
 Just bumped in bootstrap.. and It's sunday today.. it's rest day.. family day... Church Day..  :pray:
 
-**Link to work**
+**Link to work :**
 Reading https://getbootstrap.com/docs/5.0/getting-started/introduction/
