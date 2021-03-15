@@ -53,6 +53,7 @@ Reading https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 **Thought's :**
 My Goal for this is to create a finished app.. probably android platform available.. 
+To understand where it started.. 
 
 **Link to work :**
 Reading references: https://developer.android.com/
