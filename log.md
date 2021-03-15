@@ -46,3 +46,13 @@ Just bumped in bootstrap.. and It's sunday today.. it's rest day.. family day...
 
 **Link to work :**
 Reading https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+### Day 05: March 15, 2021 Monday
+
+**Today's Progress :** Learning Mobile Dev Language
+
+**Thought's :**
+My Goal for this is to create a finished app.. probably android platform available.. 
+
+**Link to work :**
+Reading references: https://developer.android.com/
