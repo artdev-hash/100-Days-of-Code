@@ -67,4 +67,11 @@ Reading references: https://developer.android.com/
 **Link to work :**
 n/a
 
+### Day 07: March 17, 2021 Wednesday
 
+**Today's Progress :** Kotlin
+
+**Thought's :** Android Studio can you be more faster.. 
+
+**Link to work :**
+n/a
