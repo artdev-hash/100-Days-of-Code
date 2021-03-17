@@ -57,3 +57,14 @@ To understand where it started..
 
 **Link to work :**
 Reading references: https://developer.android.com/
+
+### Day 06: March 16, 2021 Tuesday
+
+**Today's Progress :** Reading book's Mobile Dev Language's
+
+**Thought's :**Lot's of References.. Browsing.. 
+
+**Link to work :**
+n/a
+
+
