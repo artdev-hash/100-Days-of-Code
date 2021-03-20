@@ -94,3 +94,12 @@ Better of using vs-code than android-studio but i will use android studio if i w
 
 **Link to work :**
 n/a
+
+### Day 10: March 20, 2021 Saturday
+
+**Today's Progress :** Reading how flutter channel works
+
+**Thought's :** A step a day.. 
+
+**Link to work :**
+n/a
