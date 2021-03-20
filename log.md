@@ -85,3 +85,12 @@ n/a
 **Link to work :**
 n/a
 
+### Day 09: March 19, 2021 Friday
+
+**Today's Progress :** Flutter
+
+**Thought's :** 
+Better of using vs-code than android-studio but i will use android studio if i will add kotlin 
+
+**Link to work :**
+n/a
