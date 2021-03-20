@@ -75,3 +75,13 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 08: March 18, 2021 Thursday
+
+**Today's Progress :** Dart
+
+**Thought's :** Nice doc's
+
+**Link to work :**
+n/a
+
