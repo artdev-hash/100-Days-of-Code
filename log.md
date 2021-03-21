@@ -103,3 +103,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 11: March 21, 2021 Sunday
+
+**Today's Progress :** The pubspec
+
+**Thought's :** It's sunday.. rest.. so i am reading
+
+**Link to work :**
+n/a
