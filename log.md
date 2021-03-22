@@ -112,3 +112,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 12: March 22, 2021 Monday
+
+**Today's Progress :** dart compile
+
+**Thought's :** Don't skip Monday...
+
+**Link to work :**
+n/a
