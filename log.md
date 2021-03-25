@@ -139,3 +139,12 @@ n/a
 
 **Link to work :**
 Ref: Elementary Statistics 8th book
+
+### Day 15: March 25, 2021 Thursday
+
+**Today's Progress :** Hypothesis Testing
+
+**Thought's :** Step 1 to Step 5 is the traditional way
+
+**Link to work :**
+Ref: Elementary Statistics 8th book
