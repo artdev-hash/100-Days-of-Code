@@ -130,3 +130,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 14: March 24, 2021 Wednesday
+
+**Today's Progress :** The Null and Alternative Problem
+
+**Thought's :** analyzing solving z-test t-test problems
+
+**Link to work :**
+Ref: Elementary Statistics 8th book
