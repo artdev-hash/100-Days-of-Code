@@ -121,3 +121,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 13: March 23, 2021 Tuesday
+
+**Today's Progress :** Reading Elementary Statistics
+
+**Thought's :** Solving a list of problems with z-test
+
+**Link to work :**
+n/a
