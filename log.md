@@ -148,3 +148,12 @@ Ref: Elementary Statistics 8th book
 
 **Link to work :**
 Ref: Elementary Statistics 8th book
+
+### Day 16: March 26, 2021 Friday
+
+**Today's Progress :** P value
+
+**Thought's :** Df - 1
+
+**Link to work :**
+Ref: Elementary Statistics 8th book
