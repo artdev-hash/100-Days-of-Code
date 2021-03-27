@@ -157,3 +157,12 @@ Ref: Elementary Statistics 8th book
 
 **Link to work :**
 Ref: Elementary Statistics 8th book
+
+### Day 17: March 27, 2021 Saturday
+
+**Today's Progress :**Watched Android and Cloud Session Talk
+
+**Thought's :** Jetpack Compose and G-cloud 
+
+**Link to work :**
+Ref: https://www.youtube.com/watch?v=5M00jZOsyCM
