@@ -166,3 +166,11 @@ Ref: Elementary Statistics 8th book
 
 **Link to work :**
 Ref: https://www.youtube.com/watch?v=5M00jZOsyCM
+
+### Day 18: March 28, 2021 Sunday
+
+**Today's Progress :**
+
+**Thought's :**
+
+**Link to work :**
