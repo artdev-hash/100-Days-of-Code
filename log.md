@@ -160,7 +160,7 @@ Ref: Elementary Statistics 8th book
 
 ### Day 17: March 27, 2021 Saturday
 
-**Today's Progress :**Watched Android and Cloud Session Talk
+**Today's Progress :** Watched Android and Cloud Session Talk
 
 **Thought's :** Jetpack Compose and G-cloud 
 
@@ -168,6 +168,14 @@ Ref: Elementary Statistics 8th book
 Ref: https://www.youtube.com/watch?v=5M00jZOsyCM
 
 ### Day 18: March 28, 2021 Sunday
+
+**Today's Progress :**  Rest Day
+
+**Thought's :** Church Day
+
+**Link to work :**
+
+### Day 19: March 29, 2021 Monday
 
 **Today's Progress :**
 
