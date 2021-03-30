@@ -174,8 +174,18 @@ Ref: https://www.youtube.com/watch?v=5M00jZOsyCM
 **Thought's :** Church Day
 
 **Link to work :**
+n/a
 
 ### Day 19: March 29, 2021 Monday
+
+**Today's Progress :** Reading Elementary Statistics
+
+**Thought's :** P-value
+
+**Link to work :**
+Ref: Elementary Statistics 8th book
+
+### Day 20: March 30, 2021 Tuesday
 
 **Today's Progress :**
 
