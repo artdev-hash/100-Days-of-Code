@@ -187,8 +187,17 @@ Ref: Elementary Statistics 8th book
 
 ### Day 20: March 30, 2021 Tuesday
 
-**Today's Progress :**
+**Today's Progress :** Rest API / API
 
-**Thought's :**
+**Thought's :** what is it again?
+
+**Link to work :**
+n/a
+
+### Day 21: March 31, 2021 Wednesday
+
+**Today's Progress :** 
+
+**Thought's :** 
 
 **Link to work :**
