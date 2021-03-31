@@ -196,8 +196,9 @@ n/a
 
 ### Day 21: March 31, 2021 Wednesday
 
-**Today's Progress :** 
+**Today's Progress :** Attended Flutter ph Meetup event
 
-**Thought's :** 
+**Thought's :** Learn something new today
 
 **Link to work :**
+https://www.youtube.com/watch?v=nkEpaO-71yU&fbclid=IwAR0x_XsBDtt75hRhn74U5_1x4eMzKLGT879PxFzcWgbX2ovNGcmeDDxpXh0
