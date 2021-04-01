@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-The Log of my #100DaysofCode Challege.
+The Log of my #100DaysofCode Challenge.
 
 ### Day 01: March 11, 2021 Thursday
 
@@ -202,3 +202,12 @@ n/a
 
 **Link to work :**
 Ref: https://www.youtube.com/watch?v=nkEpaO-71yU&fbclid=IwAR0x_XsBDtt75hRhn74U5_1x4eMzKLGT879PxFzcWgbX2ovNGcmeDDxpXh0
+
+### Day 22: April 01, 2021 Thursday
+
+**Today's Progress :** mdc_100_series
+
+**Thought's :** finished all 1-4 mdc_100_series branches
+
+**Link to work :**
+https://artdev-hash.blogspot.com/2021/04/day-22-100daysofcode-challenge.html
