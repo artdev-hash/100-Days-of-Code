@@ -210,4 +210,4 @@ Ref: https://www.youtube.com/watch?v=nkEpaO-71yU&fbclid=IwAR0x_XsBDtt75hRhn74U5_
 **Thought's :** finished all 1-4 mdc_100_series branches
 
 **Link to work :**
-https://artdev-hash.blogspot.com/2021/04/day-22-100daysofcode-challenge.html
+Ref: https://artdev-hash.blogspot.com/2021/04/day-22-100daysofcode-challenge.html
