@@ -211,3 +211,12 @@ Ref: https://www.youtube.com/watch?v=nkEpaO-71yU&fbclid=IwAR0x_XsBDtt75hRhn74U5_
 
 **Link to work :**
 Ref: https://artdev-hash.blogspot.com/2021/04/day-22-100daysofcode-challenge.html
+
+### Day 23: April 02, 2021 Friday
+
+**Today's Progress :** set to start my web app porfolio
+
+**Thought's:** looking for inspirations
+
+**Link to work :**
+n/a
