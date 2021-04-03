@@ -225,7 +225,7 @@ n/a
 
 **Today's Progress :** planning the design using libre office presentation
 
-**Thought's:** looking for other designer
+**Thought's:** looking for other graphic editors
 
 **Link to work :**
 n/a
