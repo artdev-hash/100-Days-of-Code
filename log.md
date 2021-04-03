@@ -220,3 +220,12 @@ Ref: https://artdev-hash.blogspot.com/2021/04/day-22-100daysofcode-challenge.htm
 
 **Link to work :**
 n/a
+
+### Day 24: April 03, 2021 Saturday
+
+**Today's Progress :** planning the design using libre office presentation
+
+**Thought's:** looking for other designer
+
+**Link to work :**
+n/a
