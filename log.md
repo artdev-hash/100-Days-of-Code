@@ -229,3 +229,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 25: April 04, 2021 Sunday
+
+**Today's Progress :** Church day
+
+**Thought's:** God's Day
+
+**Link to work :**
+n/a
