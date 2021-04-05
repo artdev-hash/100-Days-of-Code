@@ -238,3 +238,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 26: April 05, 2021 Monday
+
+**Today's Progress :** Finding F value Annova table
+
+**Thought's:** sum of squares between groups
+
+**Link to work :**
+n/a
