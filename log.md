@@ -250,8 +250,9 @@ n/a
 
 ### Day 27: April 06, 2021 Tuesday
 
-**Today's Progress :**
+**Today's Progress :** One way annova and two way annova
 
-**Thought's:**
+**Thought's:** F test
 
 **Link to work :**
+n/a
