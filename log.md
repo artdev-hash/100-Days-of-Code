@@ -247,3 +247,11 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 27: April 06, 2021 Tuesday
+
+**Today's Progress :**
+
+**Thought's:**
+
+**Link to work :**
