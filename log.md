@@ -256,3 +256,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 28: April 07, 2021 Wednesday
+
+**Today's Progress :** Reading flutter docs
+
+**Thought's:** Looking for design inspirations
+
+**Link to work :**
+ref https://flutter.dev/docs
