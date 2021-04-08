@@ -265,3 +265,12 @@ n/a
 
 **Link to work :**
 ref https://flutter.dev/docs
+
+### Day 29: April 08, 2021 Thursday
+
+**Today's Progress :** Material Design 
+
+**Thought's:** Material Design Flow
+
+**Link to work :**
+ref https://flutter.dev/docs
