@@ -274,3 +274,12 @@ ref https://flutter.dev/docs
 
 **Link to work :**
 ref https://flutter.dev/docs
+
+### Day 30: April 09, 2021 Friday
+
+**Today's Progress :** Bloc design
+
+**Thought's:** Flutter Bloc
+
+**Link to work :**
+n/a
