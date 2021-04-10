@@ -283,3 +283,12 @@ ref https://flutter.dev/docs
 
 **Link to work :**
 n/a
+
+### Day 31: April 10, 2021 Saturday
+
+**Today's Progress :** Material or Bloc design
+
+**Thought's:** Mmmmmmmmmm.... 
+
+**Link to work :**
+n/a
