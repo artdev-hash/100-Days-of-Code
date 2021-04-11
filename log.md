@@ -297,7 +297,7 @@ n/a
 
 **Today's Progress :** 2nd Sunday of Easter, started water only
 
-**Thought's:**
+**Thought's:** church day
 
 **Link to work :**
 n/a
