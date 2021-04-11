@@ -295,7 +295,7 @@ n/a
 
 ### Day 32: April 11, 2021 Sunday
 
-**Today's Progress :** 2nd Sunday of Easter, started water fasting
+**Today's Progress :** 2nd Sunday of Easter, started water only
 
 **Thought's:**
 
