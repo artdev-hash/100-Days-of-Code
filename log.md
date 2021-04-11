@@ -292,3 +292,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 32: April 11, 2021 Sunday
+
+**Today's Progress :** 2nd Sunday of Easter, started water fasting
+
+**Thought's:**
+
+**Link to work :**
+n/a
