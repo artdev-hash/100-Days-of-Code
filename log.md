@@ -310,3 +310,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 34: April 13, 2021 Tuesday
+
+**Today's Progress :** security
+
+**Thought's** ways to do a more secure backend
+
+**Link to work :**
+n/a
