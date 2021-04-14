@@ -315,7 +315,16 @@ n/a
 
 **Today's Progress :** security
 
-**Thought's** ways to do a more secure backend
+**Thought's:** ways to do a more secure backend
+
+**Link to work :**
+n/a
+
+### Day 35: April 14, 2021 Wednesday
+
+**Today's Progress :** Looking for host
+
+**Thought's:** do i need cloud provider
 
 **Link to work :**
 n/a
