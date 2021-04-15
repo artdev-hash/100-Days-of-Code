@@ -328,3 +328,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 36: April 15, 2021 Thursday
+
+**Today's Progress :** reading docs firebase
+
+**Thought's:** progress 
+
+**Link to work :**
+n/a
