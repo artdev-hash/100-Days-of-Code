@@ -337,3 +337,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 37: April 16, 2021 Friday
+
+**Today's Progress :** flutter docs
+
+**Thought's:** progress
+
+**Link to work :**
+n/a
