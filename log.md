@@ -346,3 +346,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 38: April 17, 2021 Saturday
+
+**Today's Progress :** Attending WTM: International Women's Day 2021
+
+**Thought's:** #CouragetoCreate talks... really insteresting and inspirational
+
+**Link to work :**
+ref https://www.youtube.com/watch?v=06Aq0nrcglM
