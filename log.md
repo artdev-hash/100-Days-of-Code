@@ -355,3 +355,13 @@ n/a
 
 **Link to work :**
 ref https://www.youtube.com/watch?v=06Aq0nrcglM
+
+### Day 39: April 18, 2021 Sunday
+
+**Today's Progress :** Exercise and Rest 
+
+**Thought's:** Church day
+
+**Link to work :**
+n/a
+
