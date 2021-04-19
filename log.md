@@ -365,3 +365,11 @@ ref https://www.youtube.com/watch?v=06Aq0nrcglM
 **Link to work :**
 n/a
 
+### Day 40: April 19, 2021 Monday
+
+**Today's Progress :** reading bloc docs
+
+**Thought's:** Codemagic
+
+**Link to work :**
+n/a
