@@ -373,3 +373,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 41: April 20, 2021 Tuesday
+
+**Today's Progress :** Flutter and Firebase testing the connection
+
+**Thought's:** Mmmmmmmmm......
+
+**Link to work :**
+n/a
