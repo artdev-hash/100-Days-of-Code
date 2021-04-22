@@ -382,3 +382,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 42: April 21, 2021 Wednesday
+
+**Today's Progress :** Reading Entrep Magazines
+
+**Thought's:**
+
+**Link to work :**
+n/a
