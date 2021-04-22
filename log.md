@@ -391,3 +391,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 43: April 22, 2021 Thursday
+
+**Today's Progress :** Ideas
+
+**Thought's:**
+
+**Link to work :**
+n/a
