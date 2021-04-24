@@ -400,3 +400,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 44: April 23, 2021 Friday
+
+**Today's Progress :** Rest
+
+**Thought's:**
+
+**Link to work :**
+n/a
