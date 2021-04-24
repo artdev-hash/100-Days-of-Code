@@ -409,3 +409,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 45: April 24, 2021 Saturday
+
+**Today's Progress :** Watching ideas from IT movies
+
+**Thought's:** viewing looking for inspiration
+
+**Link to work :**
+n/a
