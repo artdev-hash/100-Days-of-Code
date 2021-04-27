@@ -418,3 +418,12 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 46: April 25, 2021 Sunday
+
+**Today's Progress :** learned new hobby
+
+**Thought's:** be patient
+
+**Link to work :**
+n/a
