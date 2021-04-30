@@ -427,3 +427,48 @@ n/a
 
 **Link to work :**
 n/a
+
+### Day 47: April 26, 2021 Monday
+
+**Today's Progress :** Queing management / Design
+
+**Thought's:** workflow from .net
+
+**Link to work :**
+n/a
+
+### Day 48: April 27, 2021 Tuesday
+
+**Today's Progress :** Queing management / Flow
+
+**Thought's:** Flow design from .net
+
+**Link to work :**
+n/a
+
+### Day 49: April 28, 2021 Wednesday
+
+**Today's Progress :** Updating my queing management system
+
+**Thought's:** 
+
+**Link to work :**
+n/a
+
+### Day 50: April 29, 2021 Thursday
+
+**Today's Progress :** reading mongo db
+
+**Thought's:** mmmmmmm
+
+**Link to work :**
+n/a
+
+### Day 51: April 30, 2021 Friday
+
+**Today's Progress :** back to flutter
+
+**Thought's:**
+
+**Link to work :**
+n/a
