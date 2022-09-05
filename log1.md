@@ -2,7 +2,7 @@
 
 The Log of my #100DaysofCode Challenge.
 
-### Day 01:September 05, 2022
+### Day 01:September 05, 2022 Monday
 
 **Today's Progress :** Learning again new things
 
@@ -11,3 +11,4 @@ Starting again and committing to coding every single day.. I will write the prog
 
 **Link to work :**
 N/A 
+
