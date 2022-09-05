@@ -12,3 +12,12 @@ Starting again and committing to coding every single day.. I will write the prog
 **Link to work :**
 N/A 
 
+### Day 02:September 06, 2022 Tuesday
+
+**Today's Progress :** Creating website
+
+**Thoughts :**
+I avail a domain yesterday and learning to configure it... in another host.. 
+
+**Link to work :**
+My progress @ https://artdev-hash.github.io/lorenzokimarthur.com/
