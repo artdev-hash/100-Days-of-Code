@@ -19,5 +19,7 @@ N/A
 **Thoughts :**
 I avail a domain yesterday and learning to configure it... in another host.. 
 
+Before the day end finally configure my domain.. added ssl and now trying to configure the output.. 
+
 **Link to work :**
 My progress @ https://artdev-hash.github.io/lorenzokimarthur.com/
