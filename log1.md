@@ -33,3 +33,13 @@ Set-up my first own configuration of SSL and DNS.
 
 **Link to work :**
 https://lorenzokimarthur.com/
+
+### Day 04 September 08, 2022 Thursday
+
+**Today's Progress :** Github Pull Achievement unlocked
+
+**Thoughts :** Exploring more and testing Github
+
+**Link to work :** 
+N/A
+
