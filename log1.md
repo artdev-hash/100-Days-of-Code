@@ -44,3 +44,11 @@ https://lorenzokimarthur.com/
 **Link to work :** 
 github/artdev-hash
 
+### Day 05 September 09, 2022 Friday
+
+**Today's Progress :** Vue and Etc.
+
+**Thoughts :**Studying Vue,  Coding my website offline mode..
+
+**Link to work :**
+N/A
