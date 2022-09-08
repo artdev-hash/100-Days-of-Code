@@ -23,3 +23,13 @@ Before the day end finally configure my domain.. added ssl and now trying to con
 
 **Link to work :**
 My progress @ https://artdev-hash.github.io/lorenzokimarthur.com/
+
+### Day 03: September 07, 2022 Wednesday
+
+**Today's Progress :** DNS Conf
+
+**Thoughts :** This is late recorded but done...
+Set-up my first own configuration of SSL and DNS.
+
+**Link to work :**
+https://lorenzokimarthur.com/
