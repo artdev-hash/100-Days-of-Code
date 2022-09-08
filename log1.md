@@ -30,6 +30,7 @@ My progress @ https://artdev-hash.github.io/lorenzokimarthur.com/
 
 **Thoughts :** This is late recorded but done...
 Set-up my first own configuration of SSL and DNS.
+I will document this Later..
 
 **Link to work :**
 https://lorenzokimarthur.com/
