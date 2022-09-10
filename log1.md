@@ -52,3 +52,12 @@ github/artdev-hash
 
 **Link to work :**
 N/A
+
+### Day 06 September 10, 2022 Saturday
+
+**Today's Progress :** Build and Deploy
+
+**Thoughts :**You have a lot of problems to face and you solve one is progress.. congratulation to me for not giving up and solving and learning... i face financial problems and i really want to make things for my family..
+
+**Link to work :**
+github/artdev-hash
