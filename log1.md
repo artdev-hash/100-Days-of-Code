@@ -61,3 +61,12 @@ N/A
 
 **Link to work :**
 github/artdev-hash
+
+## Day 07 September 11, 2022 Sunday
+
+**Today's Progress:** The website is updated
+
+**Thought :** I want to learn more about vue js
+
+**Link to work :**
+lorenzokimarthur.com
