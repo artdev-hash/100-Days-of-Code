@@ -80,3 +80,11 @@ which tutorial.. which version, and documentation
 
 **Link to work :**
 N/A
+
+## Day 09 September 13, 2022 Tuesday
+
+**Today's Progress** Vue today
+
+**Though :** 
+
+**Link to work :**
