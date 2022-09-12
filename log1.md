@@ -70,3 +70,13 @@ github/artdev-hash
 
 **Link to work :**
 lorenzokimarthur.com
+
+## Day 08 September 12, 2022 Monday
+
+**Today's Progress:** Learning vue
+
+**Thought :** Getting Started, Looking at the Start of Vue..
+which tutorial.. which version, and documentation
+
+**Link to work :**
+N/A
