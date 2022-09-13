@@ -85,6 +85,9 @@ N/A
 
 **Today's Progress** Vue today
 
-**Though :** 
+**Though :** Finding a way to easily learn vue.. 
+somehow overwelmed with the knowledge
 
 **Link to work :**
+https://vuejs.org/
+https://cli.vuejs.org/
