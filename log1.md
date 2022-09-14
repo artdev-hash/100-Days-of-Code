@@ -91,3 +91,12 @@ somehow overwelmed with the knowledge
 **Link to work :**
 https://vuejs.org/
 https://cli.vuejs.org/
+
+## Day 10 September 14, 2022 Wednesday
+
+**Today's Progress** Created How to
+
+**Thought :** a program that will all be about how to stuff. started and initialize this repo.. to put how to stuff..
+
+**Link to work :** 
+https://github.com/artdev-hash/howto
