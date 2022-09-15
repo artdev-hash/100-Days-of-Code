@@ -1,3 +1,6 @@
+<img src="./src/img/artdev.jpg" width="100%">
+
+
 # I've joined the #100DaysOfCode Challenge
 
 artdev-hash 100 days journal - to keep myself accountable 
