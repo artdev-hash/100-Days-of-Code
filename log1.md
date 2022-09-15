@@ -100,3 +100,12 @@ https://cli.vuejs.org/
 
 **Link to work :** 
 https://github.com/artdev-hash/howto
+
+## Day 11 September 15, 2022 Thursday
+
+**Today's Progress** Learning Vue
+
+**Thought :** Learning about why vue?
+
+**Link to work :**
+N/A
