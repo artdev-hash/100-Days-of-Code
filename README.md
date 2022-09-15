@@ -1,4 +1,4 @@
-<img src="./src/img/artdev.jpg" width="100%">
+<img src="./src/img/artdev-hash.jpg" width="100%">
 
 
 # I've joined the #100DaysOfCode Challenge
