@@ -109,3 +109,12 @@ https://github.com/artdev-hash/howto
 
 **Link to work :**
 N/A
+
+## Day 12 September 16, 2022 Friday
+
+**Today's Progress** Github
+
+**Thought :** What is github actions and workflow? Learning Github much deeper
+
+**Link to work :** 
+N/A
