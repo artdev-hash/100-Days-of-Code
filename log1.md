@@ -128,3 +128,11 @@ N/A
 **Link to work :**
 N/A
 
+## Day 14 September 18, 2022 Sunday
+
+**Today's Progress** xls, csv and etc.
+
+**Thought :** thinking about creating an xls app with vue is it possible looking for possible use and application
+
+**Link to work :**
+N/A
