@@ -136,3 +136,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 15 September 19, 2022 Monday
+
+**Today's Progress** updating devkimlorenzo with vite
+
+**Thought :** researching possible use of vite
+
+**Link to work :**
+N/A
