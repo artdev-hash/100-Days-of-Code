@@ -118,3 +118,13 @@ N/A
 
 **Link to work :** 
 N/A
+
+## Day 13 September 17, 2022 Saturday
+
+**Today's Progress** Vue Js
+
+**Though :** connecting to server and deploying
+
+**Link to work :**
+N/A
+
