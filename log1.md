@@ -145,3 +145,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 16 September 20, 2022 Tuesday
+
+**Today's Progress** reading veet
+
+**Thought :** Lots of language and lots of things to know and master.. must refresh javascript knowledge.. and other
+
+**Link to work :**
+N/A
