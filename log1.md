@@ -154,3 +154,13 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 17 September 21, 2022 Wednesday
+
+**Today's Progress** register in a aws seminar
+
+**Thought :** what's aws and cloud, learning new things..
+answer some javascript exercises by w3schools today..
+
+**Link to work :**
+N/A
