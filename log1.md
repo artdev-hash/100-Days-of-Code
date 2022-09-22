@@ -164,3 +164,13 @@ answer some javascript exercises by w3schools today..
 
 **Link to work :**
 N/A
+
+## Day 18 September 22, 2022 Thursday
+
+**Today's Progress** Attended seminars about AWS today
+
+**Thought :**  AWS Cost Optimization and  	
+Introduction to Cloud Computing on AWS 
+
+**Link to work :**
+N/A
