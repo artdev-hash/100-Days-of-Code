@@ -174,3 +174,12 @@ Introduction to Cloud Computing on AWS
 
 **Link to work :**
 N/A
+
+## Day 19 September 23, 2022 Friday
+
+**Today's Progress** Family first
+
+**Thought :** family today
+
+**Link to work :**
+N/A
