@@ -183,3 +183,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 20 September 24, 2022 Saturday
+
+**Today's Progress** Attended seminar workshop about Ethical Hacking and Pentesting
+
+**Thought :** Learning
+
+**Link to work :**
+N/A
