@@ -192,3 +192,13 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 21 September 25, 2022 Sunday
+
+**Today's Progress** Attended 2nd day workshop about Ethical Hacking and Pentesting
+
+**Thought :** Learning
+
+**Link to work :**
+N/A
+
