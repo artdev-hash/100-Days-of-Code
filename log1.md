@@ -202,3 +202,11 @@ N/A
 **Link to work :**
 N/A
 
+## Day 22 September 26, 2022 Monday
+
+**Today's Progress** Other program
+
+**Thought :**Looking back at my other projects and examining the code for idea of next project
+
+**Link to work :**
+N/A
