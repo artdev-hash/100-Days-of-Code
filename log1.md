@@ -210,3 +210,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 23 September 27, 2022 Tuesday
+
+**Today's Progress** Excel to Program
+
+**Thought :** created my base from vue
+
+**Link to work :**
+N/A
