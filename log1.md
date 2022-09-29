@@ -219,3 +219,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 24 September 28, 2022 Wednesday
+
+**Today's Progress** Route in Vue
+
+**Thought :** Call function and Navigate
+
+**Link to work :**
+N/A 
