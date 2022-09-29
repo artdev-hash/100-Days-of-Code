@@ -233,7 +233,7 @@ N/A
 
 **Today's Progress** Looking for how to upload excel
 
-**Thought :**The project is to read, render and download excel in program
+**Thought :** The project is to read, render and download excel in program
 
 **Link to work :**
 N/A
