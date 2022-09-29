@@ -228,3 +228,12 @@ N/A
 
 **Link to work :**
 N/A 
+
+## Day 25 September 29, 2022 Thursday
+
+**Today's Progress** Looking for how to upload excel
+
+**Thought :**The project is to read, render and download excel in program
+
+**Link to work :**
+N/A
