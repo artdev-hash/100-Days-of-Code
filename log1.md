@@ -237,3 +237,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 26 September 30,2022 Friday
+
+**Today's Progress** Rest
+
+**Thought :** Break for the day, other work
+
+**Link to work :**
+N/A
