@@ -246,3 +246,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 27 October 1,2022 Friday
+
+**Today's Progress** Hackaton Month
+
+**Thought :** October Octo Month... Looking for commits
+
+**Link to work :**
+N/A
