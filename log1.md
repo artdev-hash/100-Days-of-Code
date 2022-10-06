@@ -291,3 +291,12 @@ hacktoberfest.com
 
 **Link to work :**
 N/A
+
+## Day 32 October 6,2022 Thursday
+
+**Today's Progress**Pull and Merged
+
+**Thought :**my pull is accepted.. im happy about it..
+
+**Link to work :**
+<img src="./src/img/36.png" align="auto">
