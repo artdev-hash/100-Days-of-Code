@@ -299,4 +299,4 @@ N/A
 **Thought :**my pull is accepted.. im happy about it..
 
 **Link to work :**
-<img src="./src/img/36.png">
+<img src="./src/img/no36.png" >
