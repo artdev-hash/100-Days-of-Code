@@ -2,7 +2,7 @@
 
 The Log of my #100DaysofCode Challenge.
 
-### Day 01:September 05, 2022 Monday
+### Day 01:September 05, 2022 Thursday
 
 **Today's Progress :** Learning again new things
 
@@ -12,7 +12,7 @@ Starting again and committing to coding every single day.. I will write the prog
 **Link to work :**
 N/A 
 
-### Day 02:September 06, 2022 Tuesday
+### Day 02:September 06, 2022 Friday
 
 **Today's Progress :** Creating website
 
@@ -24,7 +24,7 @@ Before the day end finally configure my domain.. added ssl and now trying to con
 **Link to work :**
 My progress @ https://artdev-hash.github.io/lorenzokimarthur.com/
 
-### Day 03: September 07, 2022 Wednesday
+### Day 03: September 07, 2022 Saturday
 
 **Today's Progress :** DNS Conf
 
@@ -35,7 +35,7 @@ I will document this Later..
 **Link to work :**
 https://lorenzokimarthur.com/
 
-### Day 04 September 08, 2022 Thursday
+### Day 04 September 08, 2022 Sunday
 
 **Today's Progress :** Github Pull Achievement unlocked
 
@@ -44,7 +44,7 @@ https://lorenzokimarthur.com/
 **Link to work :** 
 github/artdev-hash
 
-### Day 05 September 09, 2022 Friday
+### Day 05 September 09, 2022 Monday
 
 **Today's Progress :** Vue and Etc.
 
@@ -53,7 +53,7 @@ github/artdev-hash
 **Link to work :**
 N/A
 
-### Day 06 September 10, 2022 Saturday
+### Day 06 September 10, 2022 Tuesday
 
 **Today's Progress :** Build and Deploy
 
@@ -62,7 +62,7 @@ N/A
 **Link to work :**
 github/artdev-hash
 
-## Day 07 September 11, 2022 Sunday
+## Day 07 September 11, 2022 Wednesday
 
 **Today's Progress:** The website is updated
 
@@ -71,7 +71,7 @@ github/artdev-hash
 **Link to work :**
 lorenzokimarthur.com
 
-## Day 08 September 12, 2022 Monday
+## Day 08 September 12, 2022 Thursday
 
 **Today's Progress:** Learning vue
 
@@ -81,7 +81,7 @@ which tutorial.. which version, and documentation
 **Link to work :**
 N/A
 
-## Day 09 September 13, 2022 Tuesday
+## Day 09 September 13, 2022 Friday
 
 **Today's Progress** Vue today
 
@@ -92,7 +92,7 @@ somehow overwelmed with the knowledge
 https://vuejs.org/
 https://cli.vuejs.org/
 
-## Day 10 September 14, 2022 Wednesday
+## Day 10 September 14, 2022 Monday
 
 **Today's Progress** Created How to
 
@@ -101,7 +101,7 @@ https://cli.vuejs.org/
 **Link to work :** 
 https://github.com/artdev-hash/howto
 
-## Day 11 September 15, 2022 Thursday
+## Day 11 September 15, 2022 Tuesday
 
 **Today's Progress** Learning Vue
 
@@ -110,7 +110,7 @@ https://github.com/artdev-hash/howto
 **Link to work :**
 N/A
 
-## Day 12 September 16, 2022 Friday
+## Day 12 September 16, 2022 Wednesday
 
 **Today's Progress** Github
 
@@ -119,7 +119,7 @@ N/A
 **Link to work :** 
 N/A
 
-## Day 13 September 17, 2022 Saturday
+## Day 13 September 17, 2022 Thursday
 
 **Today's Progress** Vue Js
 
@@ -128,7 +128,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 14 September 18, 2022 Sunday
+## Day 14 September 18, 2022 Friday
 
 **Today's Progress** xls, csv and etc.
 
@@ -137,7 +137,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 15 September 19, 2022 Monday
+## Day 15 September 19, 2022 Saturday
 
 **Today's Progress** updating devkimlorenzo with vite
 
@@ -146,7 +146,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 16 September 20, 2022 Tuesday
+## Day 16 September 20, 2022 Sunday
 
 **Today's Progress** reading veet
 
@@ -155,7 +155,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 17 September 21, 2022 Wednesday
+## Day 17 September 21, 2022 Monday
 
 **Today's Progress** register in a aws seminar
 
@@ -165,7 +165,7 @@ answer some javascript exercises by w3schools today..
 **Link to work :**
 N/A
 
-## Day 18 September 22, 2022 Thursday
+## Day 18 September 22, 2022 Tuesday
 
 **Today's Progress** Attended seminars about AWS today
 
@@ -175,7 +175,7 @@ Introduction to Cloud Computing on AWS
 **Link to work :**
 N/A
 
-## Day 19 September 23, 2022 Friday
+## Day 19 September 23, 2022 Wednesday
 
 **Today's Progress** Family first
 
@@ -184,7 +184,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 20 September 24, 2022 Saturday
+## Day 20 September 24, 2022 Thursday
 
 **Today's Progress** Attended seminar workshop about Ethical Hacking and Pentesting
 
@@ -193,7 +193,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 21 September 25, 2022 Sunday
+## Day 21 September 25, 2022 Friday
 
 **Today's Progress** Attended 2nd day workshop about Ethical Hacking and Pentesting
 
@@ -202,7 +202,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 22 September 26, 2022 Monday
+## Day 22 September 26, 2022 Saturday
 
 **Today's Progress** Other program
 
@@ -211,7 +211,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 23 September 27, 2022 Tuesday
+## Day 23 September 27, 2022 Sunday
 
 **Today's Progress** Excel to Program
 
@@ -220,7 +220,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 24 September 28, 2022 Wednesday
+## Day 24 September 28, 2022 Monday
 
 **Today's Progress** Route in Vue
 
@@ -229,7 +229,7 @@ N/A
 **Link to work :**
 N/A 
 
-## Day 25 September 29, 2022 Thursday
+## Day 25 September 29, 2022 Tuesday
 
 **Today's Progress** Looking for how to upload excel
 
@@ -238,7 +238,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 26 September 30,2022 Friday
+## Day 26 September 30,2022 Wednesday
 
 **Today's Progress** Rest
 
@@ -247,7 +247,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 27 October 1,2022 Friday
+## Day 27 October 1,2022 Thursday
 
 **Today's Progress** Hackaton Month
 
@@ -256,7 +256,7 @@ N/A
 **Link to work :**
 N/A
 
-## Day 28 October 2,2022 Saturday
+## Day 28 October 2,2022 Friday
 
 **Today's Progress** Docker
 
@@ -265,11 +265,13 @@ N/A
 **Link to work :**
 N/A
 
-## Day 29 October 3,2022 Sunday
+## Day 29 October 3,2022 Monday
 
-**Today's Progress** Family day
+**Today's Progress** Aws Cloud with Edukasyon and MST
 
-**Thought :** Sunday
+**Thought :** Changes in Days since the start of 100 Days I made a mistake in days. Its okay now
 
 **Link to work :**
 N/A
+
+##
