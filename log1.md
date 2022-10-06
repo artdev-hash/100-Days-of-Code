@@ -282,3 +282,12 @@ N/A
 
 **Link to work :**
 hacktoberfest.com
+
+## Day 31 October 5,2022 Wednesday
+
+**Today's Progress** Made my first Pull
+
+**Thought :** My first pull is excluded. Realising not all hacktober repo is up to the standard and tagged as hacktoberfestrepo
+
+**Link to work :**
+N/A
