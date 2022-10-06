@@ -255,3 +255,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 28 October 2,2022 Saturday
+
+**Today's Progress** Docker
+
+**Thought :** Watching a programmer on youtube
+
+**Link to work :**
+N/A
