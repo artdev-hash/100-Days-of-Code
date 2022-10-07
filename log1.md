@@ -300,3 +300,12 @@ N/A
 
 **Link to work :**
 <img src="./src/img/no36.png" >
+
+## Day 33 October 7,2022 Friday
+
+**Today's Progress** My created issue is tagged for hacktoberfest
+
+**Though :** Browsing the net for docker and kubernetes
+
+**Link to work :**
+N/A
