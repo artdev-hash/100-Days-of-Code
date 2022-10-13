@@ -354,3 +354,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 39 October 13, 2022 Thursday
+
+**Today's Progress** Pulled another request to v-animate-css
+
+**Though :** very nice repo.. adding animation
+
+**Link to work :**
+N/A
