@@ -327,3 +327,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 36 October 10, 2022 Monday
+
+**Today's Progress** Add another update to Freefolio
+
+**Though :** Pulled another request for approval
+
+**Link to work :**
+N/A
