@@ -363,3 +363,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 40 October 14, 2022 Friday
+
+**Today's Progress** 2nd time got my pulled reviewed
+
+**Though :** the first would be at dev flutter project.. ever since then forgot to resolve but hopefully what i done is right to resolve my pull.. its a experience.. changes
+
+**Link to work :**
+N/A
