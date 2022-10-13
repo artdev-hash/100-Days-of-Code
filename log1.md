@@ -336,3 +336,13 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 37 October 11, 2022 Tuesday
+
+**Today's Progress** Pulled Request Accepted
+
+**Though :** For github approval
+
+**Link to work :**
+N/A
+
