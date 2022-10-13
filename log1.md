@@ -346,3 +346,11 @@ N/A
 **Link to work :**
 N/A
 
+## Day 38 October 12, 2022 Wednesday
+
+**Today's Progress** Discovered shield.io
+
+**Though :** be adding that to my repo
+
+**Link to work :**
+N/A
