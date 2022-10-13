@@ -294,7 +294,7 @@ N/A
 
 ## Day 32 October 6,2022 Thursday
 
-**Today's Progress**Pull and Merged
+**Today's Progress** Pull and Merged
 
 **Thought :**my pull is accepted.. im happy about it..
 
@@ -306,6 +306,15 @@ N/A
 **Today's Progress** My created issue is tagged for hacktoberfest
 
 **Though :** Browsing the net for docker and kubernetes
+
+**Link to work :**
+N/A
+
+## Day 34 October 8, 2022 Saturday
+
+**Today's Progress** Looking for other repo to commit
+
+**Though :** while at it just discovered that you cannot install vscode on windows 7 machine.. it's not compatible.. i just tested it.. even on vm.
 
 **Link to work :**
 N/A
