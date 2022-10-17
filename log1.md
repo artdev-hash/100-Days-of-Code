@@ -381,3 +381,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 42 October 16, 2022 Sunday
+
+**Today's Progress** Edited a js with css
+
+**Though :** branched edit success pull and waiting for my review to merge
+
+**Link to work :**
+N/A
