@@ -372,3 +372,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 41 October 15, 2022 Saturday
+
+**Today's Progress** Passing
+
+**Though :** Got my accepted review i have changed what is requested 
+
+**Link to work :**
+N/A
