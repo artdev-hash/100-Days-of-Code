@@ -390,3 +390,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 43 October 17, 2022 Monday
+
+**Today's Progress** Trying adding binary to txt
+
+**Though :** Adding and changing and trying if it is okay.. maybe not.. so i made my changes to previous code.. 
+
+**Link to work :**
+N/A
