@@ -408,3 +408,11 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 45 October 19, 2022 Wednesday
+
+**Today's Progress** 2nd official accepted hacktober
+
+**Though :** got my holopin badge... 
+**Link to work :**
+N/A
