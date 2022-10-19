@@ -399,3 +399,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 44 October 18, 2022 Tuesday
+
+**Today's Progress** Added another pull
+
+**Though :** Need to find a repo i can contribute to....
+
+**Link to work :**
+N/A
