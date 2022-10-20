@@ -416,3 +416,11 @@ N/A
 **Though :** got my holopin badge... 
 **Link to work :**
 N/A
+
+## Day 46 October 20, 2022 Thursday
+
+**Today's Progress** Rain
+
+**Though :** Problem / Rain Flood / Water leak.. cant talk
+**Link to work :**
+N/A
