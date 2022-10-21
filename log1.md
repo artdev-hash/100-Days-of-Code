@@ -424,3 +424,11 @@ N/A
 **Though :** Problem / Rain Flood / Water leak.. cant talk
 **Link to work :**
 N/A
+
+## Day 47 October 21, 2022 Friday
+
+**Today's Progress** A Day to remember
+
+**Though :** Accomplish and accepted my 4th pull in HacktoberFest2022
+**Link to work :**
+https://github.com/artdev-hash
