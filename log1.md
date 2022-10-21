@@ -432,3 +432,11 @@ N/A
 **Though :** Accomplish and accepted my 4th pull in HacktoberFest2022
 **Link to work :**
 https://github.com/artdev-hash
+
+## Day 48 October 22, 2022 Saturday
+
+**Today's Progress** I Choose Plant a Tree 
+
+**Though :** Collecting the Prize I choose to redeem the Tree prize..
+**Link to work :**
+[<img src="./src/img/plantatree.png">](https://github.com/artdev-hash)
