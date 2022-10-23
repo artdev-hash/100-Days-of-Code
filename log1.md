@@ -414,6 +414,7 @@ N/A
 **Today's Progress** 2nd official accepted hacktober
 
 **Though :** got my holopin badge... 
+
 **Link to work :**
 N/A
 
@@ -430,6 +431,7 @@ N/A
 **Today's Progress** A Day to remember
 
 **Though :** Accomplish and accepted my 4th pull in HacktoberFest2022
+
 **Link to work :**
 https://github.com/artdev-hash
 
@@ -438,5 +440,17 @@ https://github.com/artdev-hash
 **Today's Progress** I Choose Plant a Tree 
 
 **Though :** Collecting the Prize I choose to redeem the Tree prize..
+
 **Link to work :**
+
 [<img src="./src/img/plantatree.png">](https://github.com/artdev-hash)
+
+## Day 49 October 23, 2022 Sunday
+
+**Today's Progress** Creating resume
+
+**Though :** Updating and creating new resume..
+
+**Link to work :**
+N/A
+
