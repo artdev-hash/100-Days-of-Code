@@ -455,3 +455,12 @@ https://github.com/artdev-hash
 **Link to work :**
 N/A
 
+## Day 50 October 24, 2022 Monday
+
+**Today's Progress** Creating resume part 2
+
+**Though :** Editing Summarizing to code it better
+
+**Link to work :**
+N/A
+
