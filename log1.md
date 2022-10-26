@@ -464,3 +464,12 @@ N/A
 **Link to work :**
 N/A
 
+## Day 51 October 25, 2022 Tuesday
+
+**Today's Progress** GCPinas 2
+
+**Though :** while on creating resume participating in GCPinas2
+
+**Link to work :**
+N/A
+
