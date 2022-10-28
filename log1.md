@@ -482,3 +482,11 @@ N/A
 **Link to work :**
 N/A
 
+## Day 53 October 27, 2022 Thursday
+
+**Today's Progress** Rainy day
+
+**Though :** Reading about Google Cloud and updating my readme..
+
+**Link to work :**
+N/A
