@@ -490,3 +490,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 54 October 28, 2022 Friday
+
+**Today's Progress** There's a storm
+
+**Though :** Looking for repo and readme to update .
+
+**Link to work :**
+N/A
