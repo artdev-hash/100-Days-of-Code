@@ -526,3 +526,12 @@ N/A
 
 **Link to work :**
 N/A
+
+## Day 58 November 22, 2022
+
+**Today's Progress** Recovered my Copy and Device
+
+**Thought :** Back again in programming 
+
+**Link to work :**
+https://github.com/artdev-hash
