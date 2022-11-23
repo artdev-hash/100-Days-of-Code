@@ -535,3 +535,12 @@ N/A
 
 **Link to work :**
 https://github.com/artdev-hash
+
+## Day 59 November 23, 2022
+
+**Today's Progress** Vue js refreshed
+
+**Thought :** Install and learn more about headless cms
+
+**Link to work :**
+N/A
