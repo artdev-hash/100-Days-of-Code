@@ -5,6 +5,13 @@
 
 artdev-hash 100 days journal - to keep myself accountable 
 
+----
+
+## " I may have not yet completed the 100 days of continous coding,.. but i will soon.."
+
+-kim
+
+---
 
 # Content
 
