@@ -9,3 +9,4 @@ artdev-hash 100 days journal - to keep myself accountable
 
 * Year 2022 [Log - click here to see my progress](log1.md)
 * Year 2021 [Log - click here to see my progress](log.md)
+* Year 2023 [log - Click here to see my progress](log2.md)
