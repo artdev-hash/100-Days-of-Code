@@ -13,3 +13,13 @@ Biz-kal would be a core of a new project
 
 N/A
 
+### Day 02: March 9, 2023 Thursday
+
+**Today's Progress :** Making Progress at project Biz-kal
+
+**Thoughts :**
+Doing some coding.. but will not push yet
+
+**Link to work :**
+
+N/A
