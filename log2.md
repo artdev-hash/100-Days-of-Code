@@ -45,3 +45,14 @@ how API?
 **Link to work :**
 
 N/A
+
+### Day 05: March 12,2023 Sunday
+
+**Today's Progress :** Fixing Bizloc
+
+**Thoughts :**
+Vue, React, Flutter 
+
+**Link to work :**
+
+N/A
