@@ -34,3 +34,14 @@ Learned some from Material Designs
 **Link to work :**
 
 N/A
+
+### Day 04: March 11, 2023 Saturday
+
+**Today's Progress :** Looking for API
+
+**Thoughts :**
+how API?
+
+**Link to work :**
+
+N/A
