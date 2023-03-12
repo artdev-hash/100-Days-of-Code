@@ -23,3 +23,14 @@ Doing some coding.. but will not push yet
 **Link to work :**
 
 N/A
+
+### Day 03: March 10, 2023 Friday
+
+**Today's Progress :** Creating Com Private project
+
+**Thoughts :**
+Learned some from Material Designs
+
+**Link to work :**
+
+N/A
