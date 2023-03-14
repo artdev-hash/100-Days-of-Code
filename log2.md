@@ -67,3 +67,14 @@ Vite - Offline
 **Link to work :**
 
 N/A
+
+### Day 07: March 14, 2023 Tuesday
+
+**Today's Progress :** Site 2.0
+
+**Thoughts :**
+Config Vite Offline
+
+**Link to work :**
+
+N/A
