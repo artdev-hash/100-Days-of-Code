@@ -56,3 +56,14 @@ Vue, React, Flutter
 **Link to work :**
 
 N/A
+
+### Day 06: March 13,2023 Monday
+
+**Today's Progress :** Using Route
+
+**Thoughts :**
+Vite - Offline
+
+**Link to work :**
+
+N/A
