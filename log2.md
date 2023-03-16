@@ -78,3 +78,14 @@ Config Vite Offline
 **Link to work :**
 
 N/A
+
+### Day 08: March 15, 2023 Wednesday
+
+**Today's Progress :** Site 2.0
+
+**Thoughts :**
+Upload Changes in Site 2.0
+
+**Link to work :**
+
+https://www.lorenzokimarthur.com
