@@ -89,3 +89,14 @@ Upload Changes in Site 2.0
 **Link to work :**
 
 https://www.lorenzokimarthur.com
+
+### Day 09: March 16, 2023 Wednesday
+
+**Today's Progress :** Site 2.0
+
+**Thoughts :**
+Adding Some Changes
+
+**Link to work :**
+
+https://www.lorenzokimarthur.com
