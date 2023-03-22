@@ -100,3 +100,15 @@ Adding Some Changes
 **Link to work :**
 
 https://www.lorenzokimarthur.com
+
+### Day 10: March 17, 2023 Thursday
+
+**Today's Progress :** Deploying Site 2.0
+
+**Thoughts :**
+Configuring Deployment
+
+**Link to work :**
+
+https://www.lorenzokimarthur.com
+
