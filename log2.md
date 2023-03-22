@@ -112,3 +112,13 @@ Configuring Deployment
 
 https://www.lorenzokimarthur.com
 
+### Day 11: March 18, 2023 Friday
+
+**Today's Progress :** vue challenge answered
+
+**Thoughts :** 
+Answered 1 and 2
+
+**Link to work :**
+
+N/A
