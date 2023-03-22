@@ -122,3 +122,13 @@ Answered 1 and 2
 **Link to work :**
 
 N/A
+
+### Day 12: March 19, 2023 Saturday
+
+**Today's Progress :** snurelax
+
+**Thoughts :** Quasar App
+
+**Link to work :**
+
+https://github.com/artdev-hash/snurelax
