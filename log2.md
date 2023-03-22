@@ -132,3 +132,13 @@ N/A
 **Link to work :**
 
 https://github.com/artdev-hash/snurelax
+
+### Day 13: March 20, 2023 Sunday
+
+**Today's Progress :** reading quasar
+
+**Thoughts :** quasar.dev
+
+**Link to work :**
+
+N/A
