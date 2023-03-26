@@ -192,3 +192,13 @@ N/A
 **Link to work :**
 
 N/A
+
+### Day 19: March 26, 2023 Saturday
+
+**Today's Progress :** Javascript
+
+**Thoughts :** 
+
+**Link to work :**
+
+N/A
