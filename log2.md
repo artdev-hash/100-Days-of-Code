@@ -162,3 +162,13 @@ N/A
 **Link to work :**
 
 N/A
+
+### Day 16: March 23, 2023 Wednesday
+
+**Today's Progress :** TS
+
+**Thoughts :** Typescript
+
+**Link to work :**
+
+N/A
