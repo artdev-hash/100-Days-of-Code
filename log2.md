@@ -173,9 +173,19 @@ N/A
 
 N/A
 
-### Day 17: March 23, 2023 Thursday
+### Day 17: March 24, 2023 Thursday
 
 **Today's Progress :** Deep with Javascript
+
+**Thoughts :** Vite TS
+
+**Link to work :**
+
+N/A
+
+### Day 18: March 25, 2023 Friday
+
+**Today's Progress :** Javascript
 
 **Thoughts :** Vite TS
 
