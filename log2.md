@@ -90,7 +90,7 @@ Upload Changes in Site 2.0
 
 https://www.lorenzokimarthur.com
 
-### Day 09: March 16, 2023 Wednesday
+### Day 09: March 16, 2023 Thursday
 
 **Today's Progress :** Site 2.0
 
@@ -101,7 +101,7 @@ Adding Some Changes
 
 https://www.lorenzokimarthur.com
 
-### Day 10: March 17, 2023 Thursday
+### Day 10: March 17, 2023 Friday
 
 **Today's Progress :** Deploying Site 2.0
 
@@ -112,7 +112,7 @@ Configuring Deployment
 
 https://www.lorenzokimarthur.com
 
-### Day 11: March 18, 2023 Friday
+### Day 11: March 18, 2023 Saturday
 
 **Today's Progress :** vue challenge answered
 
@@ -123,7 +123,7 @@ Answered 1 and 2
 
 N/A
 
-### Day 12: March 19, 2023 Saturday
+### Day 12: March 19, 2023 Sunday
 
 **Today's Progress :** snurelax
 
@@ -133,7 +133,7 @@ N/A
 
 https://github.com/artdev-hash/snurelax
 
-### Day 13: March 20, 2023 Sunday
+### Day 13: March 20, 2023 Monday
 
 **Today's Progress :** reading quasar
 
@@ -143,7 +143,7 @@ https://github.com/artdev-hash/snurelax
 
 N/A
 
-### Day 14: March 21, 2023 Monday
+### Day 14: March 21, 2023 Tuesday
 
 **Today's Progress :** github docs
 
@@ -153,7 +153,7 @@ N/A
 
 N/A
 
-### Day 15: March 22, 2023 Tuesday
+### Day 15: March 22, 2023 Wednesday
 
 **Today's Progress :** updating bizkal
 
@@ -163,7 +163,7 @@ N/A
 
 N/A
 
-### Day 16: March 23, 2023 Wednesday
+### Day 16: March 23, 2023 Thursday
 
 **Today's Progress :** TS
 
@@ -173,7 +173,7 @@ N/A
 
 N/A
 
-### Day 17: March 24, 2023 Thursday
+### Day 17: March 24, 2023 Friday
 
 **Today's Progress :** Deep with Javascript
 
@@ -183,7 +183,7 @@ N/A
 
 N/A
 
-### Day 18: March 25, 2023 Friday
+### Day 18: March 25, 2023 Saturday
 
 **Today's Progress :** Javascript
 
@@ -193,7 +193,7 @@ N/A
 
 N/A
 
-### Day 19: March 26, 2023 Saturday
+### Day 19: March 26, 2023 Sunday
 
 **Today's Progress :** Javascript
 
@@ -202,3 +202,4 @@ N/A
 **Link to work :**
 
 N/A
+
